@@ -1,2 +1,2 @@
 # StudyHub
-Study organizational application for students
+Study Location Finder
